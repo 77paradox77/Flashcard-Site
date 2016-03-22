@@ -1,0 +1,23 @@
+.jumbotron {
+  text-align: center;
+}
+
+p {
+  display: none;
+}
+
+.flashCards {
+  float:left;
+}
+
+div.flashCards {
+  margin: 20px;
+  border-style: solid;
+  border-color: red;
+  background-color: green;
+}
+
+div{
+  padding: 45px;
+  align-items: center;
+}
