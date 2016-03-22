@@ -13,8 +13,8 @@ p {
 div.flashCards {
   margin: 20px;
   border-style: solid;
-  border-color: red;
-  background-color: green;
+  border-color: black;
+  background-color: #D3D3D3;
 }
 
 div{
